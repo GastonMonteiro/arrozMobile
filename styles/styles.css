@@ -1,0 +1,29 @@
+body {
+    background-color: #2F343C;
+}
+
+.botons {
+    color: white;
+    background-color: #FF6600;
+}
+
+.botons2 {
+    color: #FF6600;
+}
+
+.cards {
+    background-color: #16171B;
+}
+
+.card {
+    background-color: #16171B;
+}
+
+.greyColor {
+    background-color: #343A3F
+}
+
+.fondo {
+    background-image: url(/assets/fondo.png);
+    background-size:cover;
+}
